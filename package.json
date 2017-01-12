@@ -1,0 +1,17 @@
+{
+  "name": "japanese-calendar",
+  "version": "0.0.1",
+  "description": "japanese-calendar - Japanese calendar converter.",
+  "main": "./index.js",
+  "bin": {
+    "japanese-calendar": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuji Yamaguchi <yuji.yamaguchi24@gmail.com> (https://blog.yug1224.com)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
