@@ -2,9 +2,9 @@
   "name": "japanese-calendar",
   "version": "0.0.2",
   "description": "japanese-calendar - Japanese calendar converter.",
-  "main": "./index.js",
+  "main": "./lib/app.js",
   "bin": {
-    "japanese-calendar": "./index.js"
+    "japanese-calendar": "./lib/bin.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
