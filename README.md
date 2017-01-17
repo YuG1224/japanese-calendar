@@ -47,10 +47,10 @@ japanese-calendar -f japanese -t heisei -y 29
 ```js
 const calendar = require('japanese-calendar');
 
-calendar('christian', 'heisei', 2017);
+console.log(calendar('christian', 'heisei', 2017));
 // 29
 
-calendar('japanese', 'heisei', 29);
+console.log(calendar('japanese', 'heisei', 29));
 // 2017
 ```
 
