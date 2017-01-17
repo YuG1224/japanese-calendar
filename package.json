@@ -1,6 +1,6 @@
 {
   "name": "japanese-calendar",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "japanese-calendar - Japanese calendar converter.",
   "main": "./lib/app.js",
   "bin": {
