@@ -1,6 +1,8 @@
-# japanese-calendar
+# japanese-calendar [![npm version](https://badge.fury.io/js/japanese-calendar.svg)](https://badge.fury.io/js/japanese-calendar)
 
-japanese-calendar-converter
+This module is for converting Japanese calendar
+
+[![NPM](https://nodei.co/npm/japanese-calendar.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/japanese-calendar/)
 
 ## Install
 
