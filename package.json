@@ -17,13 +17,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuG1224/japanese-calendar-converter.git"
+    "url": "git+https://github.com/YuG1224/japanese-calendar.git"
   },
   "keywords": [
     "japanese calendar"
   ],
   "bugs": {
-    "url": "https://github.com/YuG1224/japanese-calendar-converter/issues"
+    "url": "https://github.com/YuG1224/japanese-calendar/issues"
   },
-  "homepage": "https://github.com/YuG1224/japanese-calendar-converter#readme"
+  "homepage": "https://github.com/YuG1224/japanese-calendar#readme"
 }
